@@ -1,0 +1,16 @@
+/*
+    oldalalakítások
+    Asztali nézetben max 800px, 80%,
+    a galériában középen négy kép legyen egymás mellett
+    Töréspontok:
+    650px - két kép legyen egymás mellett a galériában
+    500px - egy kép legyen egy "sorban"
+*/
+
+body{
+    background-color: antiquewhite;
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+}
+
